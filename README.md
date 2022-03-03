@@ -1,4 +1,4 @@
-## Welcome My Website
+## Welcome To My Website
 
 I'm Sashu Prakash. I plan to graduate from the [University of Maryland](https://umd.edu/) in 2025 with either a degree in Computer Science, or Mechanical Engineering (hopefully both actually). 
 
@@ -16,8 +16,8 @@ So, I've decided to upload my notes to a website where anyone can easily access 
 I have not created a dedicated page for these notes since I'm short on time. For now, access my OneNote Notebooks through these links. You will have to log in using your UMD Microsoft account.
 
 * [MATH141 Notes](https://umd0-my.sharepoint.com/:o:/g/personal/sprakash_umd_edu/EmN1goG1yRlJmwoG-5ewjXEBWUM9VbXqv1R1MLpN7za-3Q?e=Y2w3ef) | [MATH241 Notes](https://umd0-my.sharepoint.com/:o:/g/personal/sprakash_umd_edu/EqgY6ANjXXVEgORW6-bUuUcBZ6deGnscmzEK7MDoaa9fSw?e=qdMUdS)
-  * For MATH141: I didn't take super good notes or anything so they're messy, but I think I wrote down everything Dr. John Quah wrote on the board. In one way or another.
-  * FOR MATH241: I missed lecture on Friday, February 25th, 2022, because I was so tired and I just wanted to sleep lol. I have some pictures of the board from a friend and I'll update my notebook soon.
+  * For MATH141: I didn't take super good notes or anything so they're messy, but I think I wrote down everything Dr. John Quah wrote on the board. In one way or another. The [textbook](https://libgen.is/book/index.php?md5=3CA6E50A13EC9A680F3EE54A5A5A1DC5) and its [Solutions Manual](https://libgen.is/book/index.php?md5=71425BD0D08E34AC320AFFB1AD3BD22C) we use in class is available online at Libaray Genesis.
+  * FOR MATH241: Use these notes in conjunction with Prof. Ebrehemian's Course Summary Notes, available on Canvas > Files > [Math 241 Lecture Note Summary](https://umd.instructure.com/files/66995194/download?download_frd=1). You can find what topics we covered here and on the [syllabus](https://umd.instructure.com/courses/1321101), and confer with Prof. Justin's [YouTube videos](https://youtube.com/playlist?list=PLV_e97dP47FE0KsQwaGYpRlQ1c2cv-eiI) for additional help. The [textbook](https://libgen.is/book/index.php?md5=3CA6E50A13EC9A680F3EE54A5A5A1DC5) and its [Solutions Manual](https://libgen.is/book/index.php?md5=71425BD0D08E34AC320AFFB1AD3BD22C) we use in class is available online at Libaray Genesis.
 * [PHYS161 Notes](https://umd0-my.sharepoint.com/:o:/g/personal/sprakash_umd_edu/EkZTMWkpEe1Js7eOSMldc2kBkA3qzVMOKihYIVoq6CY05Q?e=bEI8QY)
   * My professor, Dr. Hailu Gebremeniam, sometimes clicks throught the question slides too fast to get the entire question down, but he still does the entire problem and I copy it down.
 * [ENES100 Notes](https://umd0-my.sharepoint.com/:o:/g/personal/sprakash_umd_edu/EjL5NvTMy9hEowUbolb3LwsBz5COjXXljbBbfxEyAFqYYA?e=fuBkvf) | [ENES102 Notes](https://umd0-my.sharepoint.com/:o:/g/personal/sprakash_umd_edu/EvuQIxPnw1NGj6Lib7pJDpkBtysg1G0G317ywwRAYZ3ogQ?e=CeWX7n)
