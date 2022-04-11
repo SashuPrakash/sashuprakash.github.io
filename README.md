@@ -27,6 +27,7 @@ I have not created a dedicated page for these notes since I'm short on time. For
   * These are just annotations on top of the presentations Dr. James MacDonald presents in class. He's a great speaker, so if you're in class, try to listen to what he says even though the topics are really boring.
   * Here are the links to the four readings we will need in class: 
     * [The Fate of Food - Amanda Little](https://b-ok.cc/book/5232080/c54131)
+      * And [here](https://drive.google.com/file/d/1d6ebFmCsTSc43YAztTbXE8Eik4sC6Y9P/view?usp=sharing)'s a PDF Version (Use UMD Google Account).
     * [Tomorrow’s Table - Pamela C. Ronald, Raoul W. Adamchak](https://b-ok.cc/book/3693193/e03961)
     * [A Revolution Down on the Farm - Paul K. Conkin](https://b-ok.cc/book/909142/2d841c)
     * [Rancher, farmer, fisherman - Miriam Horn](https://b-ok.cc/book/5948672/aad313).
