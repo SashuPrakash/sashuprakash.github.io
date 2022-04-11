@@ -25,6 +25,11 @@ I have not created a dedicated page for these notes since I'm short on time. For
   * For ENES102: Dr. Bowden is an amazing teacher and the way she walks us through the problem is not replicable in notes. Try to attend her lectures, but I've written down every word, symbol, and drawing she's put on the board. The class uses the a [textbook](http://ter.ps/enes102book) which you **must purchase** from the ENGR Copy Center for $33 when class starts `:)`.
 * [AREC210 Lecture Annotations](https://umd0-my.sharepoint.com/:o:/g/personal/sprakash_umd_edu/EoGlnfJ3lCFGh9iYRCS-JKgBdql6owjrKEzqsq9asRMQhQ?e=xthgRD)
   * These are just annotations on top of the presentations Dr. James MacDonald presents in class. He's a great speaker, so if you're in class, try to listen to what he says even though the topics are really boring.
+  * Here are the links to the four readings we will need in class: 
+    * [The Fate of Food - Amanda Little](https://b-ok.cc/book/5232080/c54131)
+    * [Tomorrow’s Table - Pamela C. Ronald, Raoul W. Adamchak](https://b-ok.cc/book/3693193/e03961)
+    * [A Revolution Down on the Farm - Paul K. Conkin](https://b-ok.cc/book/909142/2d841c)
+    * [Rancher, farmer, fisherman - Miriam Horn](https://b-ok.cc/book/5948672/aad313).
 * [CHEM135 Notes](https://umd0-my.sharepoint.com/:o:/g/personal/sprakash_umd_edu/EoO-PP1tHtNOpYFt3boAlhEBlfERuSeWrXGFSZED7xa34g?e=YOyGSd)
   * I never took actually good notes in this class. My grade suffered because of it. 
 * [HESP120 Notes](https://umd0-my.sharepoint.com/:o:/g/personal/sprakash_umd_edu/Ej20kwKoW8FAmuntCt3ixX8BzQnNT1Z1qhzYiAAMRkPPtg?e=sIPdxk)
