@@ -43,6 +43,23 @@ I have not created a dedicated page for these notes since I'm short on time. For
 * [THET285 Notes](https://umd0-my.sharepoint.com/:o:/g/personal/sprakash_umd_edu/EmkV0fydWd1Oh4dyM9mD9VEBAPaalHQHSiA1dBVATAYYrA?e=YgtnEt)
   * My notes in this class are pretty much useless because I didn't take any notes. Mr. Barker was a great teacher tho so I just listened to him when he spoke with great articulation and enunciation lol.
 
+### Photography and Videography
+
+Over time, I've done some photography and made some YouTube videos. 
+* Some of my pictures can be found at:
+  * Instagram: [@sashuphoto](https://www.instagram.com/sashuphoto/) 
+  * VSCO: [sashuprakash](https://vsco.co/sashuprakash/gallery).
+* I've also made some YouTube videos and stuff (this is all really old work so don't expect much):
+  * My First Channel: [Sashu Tech](https://www.youtube.com/channel/UCnJ9lDvnEGj7Rr0uxhlwGPg).
+    * I quit this channel because it turned me into a meme. 
+  * My Personal Channel: [Sashu Prakash](https://www.youtube.com/channel/UCjikAENAkSSfOy24DbdjDNA). 
+    * [Climate Change Video](https://www.youtube.com/watch?v=ZEYwasLFX6g) shown to the Governer at the Maryland Climate Summit.
+  * Random Short Vlogs Channel: [The OG Indian Ballers United](https://www.youtube.com/channel/UCoFsPur5ro2EguWH4JESt4w).
+    * This channel was just me experimenting with my camera, video editing, color grading, and sound design.
+  * Other videos:
+    * Funny Video I made for my friend: [Try Not To Be Bored (S01E01)](https://www.youtube.com/watch?v=-D3E836iL20).
+    * HoCo SMOB Convention Videos: I lead a team of videographers to plan, set-up, shoot, and edit the 2019 Howard County SMOB convention. I aquired equipment from my school and provided much of my own, operated the equipment during the shoot, and taught the students I lead basic video editing. The video was similar to [this one](https://vimeo.com/256990165). For some reason, I can't find the 2019 video anywhere. In 2020, one of the students that I led took over because he was the son of the HoCo faculty member who ran the SMOB Convention. I despise nepotism; I'm still salty about it. The only proof that I can find that this happened is this [article](https://www.baltimoresun.com/maryland/howard/ph-ho-cf-smob-convention-0307-story.html) where I'm cited as "one of the four videographers at the convention". Most of the credit was given tot he other kid because he was intervieiwng with the press while I was running the rest of the show.
+
 ### Other Projects
 
 As I keep adding project to my portfolio, I'll add their discriptions here.
