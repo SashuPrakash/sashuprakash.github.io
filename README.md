@@ -39,7 +39,7 @@ I have not created a dedicated page for these notes since I'm short on time. For
 * [CMSC132 Notes](https://drive.google.com/drive/folders/1Sz156Q8w2T9D3IYjOpsTQkFGHB8KTUyf?usp=sharing) | [CMSC216 Notes](https://github.com/SashuPrakash/CMSC216Notes)
   * I didn't use OneNote for these notes. I made them locally using Markdown in VSCode, so I will have to convert those to HTML and create a dedicated page or something. I'll do that when I have time possibly over winter break. I might not do it at all. 
   * Please refer to the recorded lectures (I watch them at 2x speed).
-  * I've heard good things about Ekesh Kumar's [CMSC132 Notes](https://github.com/kekesh/CMSC132) and [CMSC216 Notes](https://github.com/kekesh/CMSC132)
+  * I've heard good things about Ekesh Kumar's [CMSC132 Notes](https://github.com/kekesh/CMSC132) and [CMSC216 Notes](https://github.com/kekesh/CMSC216)
   * My CMSC216 Notes are on GitHub, just open/download the PDFs from there or I also provide the original MD, and converted HTML, JPG, and PNG.
 * [THET285 Notes](https://umd0-my.sharepoint.com/:o:/g/personal/sprakash_umd_edu/EmkV0fydWd1Oh4dyM9mD9VEBAPaalHQHSiA1dBVATAYYrA?e=YgtnEt)
   * My notes in this class are pretty much useless because I didn't take any notes. Mr. Barker was a great teacher tho so I just listened to him when he spoke with great articulation and enunciation lol.
