@@ -15,6 +15,13 @@ So, I've decided to upload my notes to a website where anyone can easily access 
 
 I have not created a dedicated page for these notes since I'm short on time. For now, access my OneNote Notebooks through these links. You will have to log in using your UMD Microsoft account.
 
+* [CMSC132 Notes](https://drive.google.com/drive/folders/1Sz156Q8w2T9D3IYjOpsTQkFGHB8KTUyf?usp=sharing) | [CMSC216 Notes](https://github.com/SashuPrakash/CMSC216Notes) | [CMSC250 Notes](https://umd0-my.sharepoint.com/:o:/g/personal/sprakash_umd_edu/ElaCzgJi1tBCvokO2cou6MsBjjfcNGIukIYT9StVgEoqzw?e=w2Mjfp) 
+  * For CMSC250: My computer just broke so I'm using friend's devices to copy notes into OneNote. For now some of the notes might be pictures of my notebook.
+    * Find [Recorded Lectures here](https://umd.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?embedded=1#folderID=%223bd5c7ea-d758-4f3f-a87b-ae6900f722c7%22) and the [Class Website here](https://www.cs.umd.edu/class/fall2022/cmsc250-020X/).
+  * For CMSC132/CMSC216: I didn't use OneNote for these notes. I made them locally using Markdown in VSCode, so I will have to convert those to HTML and create a dedicated page or something. I'll do that when I have time possibly over winter break. I might not do it at all. 
+  * Please refer to the recorded lectures (I watch them at 2x speed).
+  * I've heard good things about Ekesh Kumar's [CMSC132 Notes](https://github.com/kekesh/CMSC132) and [CMSC216 Notes](https://github.com/kekesh/CMSC216)
+  * My CMSC216 Notes are on GitHub, just open/download the PDFs from there or I also provide the original MD, and converted HTML, JPG, and PNG.
 * [MATH141 Notes](https://umd0-my.sharepoint.com/:o:/g/personal/sprakash_umd_edu/EmN1goG1yRlJmwoG-5ewjXEBWUM9VbXqv1R1MLpN7za-3Q?e=Y2w3ef) | [MATH241 Notes](https://umd0-my.sharepoint.com/:o:/g/personal/sprakash_umd_edu/EqgY6ANjXXVEgORW6-bUuUcBZ6deGnscmzEK7MDoaa9fSw?e=qdMUdS) | [MATH246 Notes](https://umd0-my.sharepoint.com/:o:/g/personal/sprakash_umd_edu/EjZbtjomUPZEo5Vyz26jPfQBMQ2Tj1ieRfUFzS3kBqmItQ?e=6bNJZX)
   * For MATH141: I didn't take super good notes or anything so they're messy, but I think I wrote down everything Dr. John Quah wrote on the board. In one way or another. The [textbook](https://libgen.is/book/index.php?md5=3CA6E50A13EC9A680F3EE54A5A5A1DC5) and its [Solutions Manual](https://libgen.is/book/index.php?md5=71425BD0D08E34AC320AFFB1AD3BD22C) we use in class is available online at Libaray Genesis.
   * For MATH241: Use these notes in conjunction with Prof. Ebrehemian's Course Summary Notes, available on Canvas > Files > [Math 241 Lecture Note Summary](https://umd.instructure.com/files/66995194/download?download_frd=1). You can find what topics we covered here and on the [syllabus](https://umd.instructure.com/courses/1321101), and confer with Prof. Justin's [YouTube videos](https://youtube.com/playlist?list=PLV_e97dP47FE0KsQwaGYpRlQ1c2cv-eiI) for additional help. The [textbook](https://libgen.is/book/index.php?md5=3CA6E50A13EC9A680F3EE54A5A5A1DC5) and its [Solutions Manual](https://libgen.is/book/index.php?md5=71425BD0D08E34AC320AFFB1AD3BD22C) we use in class is available online at Libaray Genesis.
@@ -37,12 +44,6 @@ I have not created a dedicated page for these notes since I'm short on time. For
   * I never took actually good notes in this class. My grade suffered because of it. 
 * [HESP120 Notes](https://umd0-my.sharepoint.com/:o:/g/personal/sprakash_umd_edu/Ej20kwKoW8FAmuntCt3ixX8BzQnNT1Z1qhzYiAAMRkPPtg?e=sIPdxk)
   * I didn't take proper notes until later in the semester when I realized I was gonna fail the class if I didn't start paying attention.
-* [CMSC132 Notes](https://drive.google.com/drive/folders/1Sz156Q8w2T9D3IYjOpsTQkFGHB8KTUyf?usp=sharing) | [CMSC216 Notes](https://github.com/SashuPrakash/CMSC216Notes) | [CMSC250 Notes](https://umd0-my.sharepoint.com/:o:/g/personal/sprakash_umd_edu/ElaCzgJi1tBCvokO2cou6MsBjjfcNGIukIYT9StVgEoqzw?e=w2Mjfp) 
-  * For CMSC250: My computer just broke so I'm using friend's devices to copy notes into OneNote. For now some of the notes might be pictures of my notebook.
-  * For CMSC132/CMSC216: I didn't use OneNote for these notes. I made them locally using Markdown in VSCode, so I will have to convert those to HTML and create a dedicated page or something. I'll do that when I have time possibly over winter break. I might not do it at all. 
-  * Please refer to the recorded lectures (I watch them at 2x speed).
-  * I've heard good things about Ekesh Kumar's [CMSC132 Notes](https://github.com/kekesh/CMSC132) and [CMSC216 Notes](https://github.com/kekesh/CMSC216)
-  * My CMSC216 Notes are on GitHub, just open/download the PDFs from there or I also provide the original MD, and converted HTML, JPG, and PNG.
 * [THET285 Notes](https://umd0-my.sharepoint.com/:o:/g/personal/sprakash_umd_edu/EmkV0fydWd1Oh4dyM9mD9VEBAPaalHQHSiA1dBVATAYYrA?e=YgtnEt)
   * My notes in this class are pretty much useless because I didn't take any notes. Mr. Barker was a great teacher tho so I just listened to him when he spoke with great articulation and enunciation lol.
 
