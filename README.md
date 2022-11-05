@@ -2,11 +2,6 @@
 
 I'm Sashu Prakash. I plan to graduate from the [University of Maryland](https://umd.edu/) in 2025 with either a degree in Computer Science, or Mechanical Engineering (hopefully both actually). 
 
-## Resources
-
-These are not things I'm involved in, just links to resources that may be helpful:
-* [Inclusive Therapists](https://www.inclusivetherapists.com/): get care from mental health experts centering to the needs of Black, Indigenous, and People of Color (BIPOC) and the 2SLGBTQIA+ community
-
 ## My Projects
 
 Here are the projects I'm working on:
